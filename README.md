@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first project!
+BookBot is project in python, taking large amounts of text and printing report on occurances of words or letters
